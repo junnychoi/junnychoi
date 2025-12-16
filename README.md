@@ -1,43 +1,33 @@
-<h1 align="center">👋 Hi! I’m Junny. 👋</h1>
+<h1>👋 Hi, I’m Junny!</h1>
 
-<p align="center">
-🎓 <strong>Master’s student in Applied Data Science</strong> at the University of Chicago<br/>
-🏦 Analytics experience in <strong>financial services</strong> at Morningstar
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junnychoi&label=Profile%20views&color=0e75b6&style=flat" alt="junnychoi" />
+<p>
+🎓 Master’s student in Applied Data Science at the University of Chicago<br/>
+🏦 Analytics experience in financial services at Morningstar<br/>
+🏫 Bachelor’s in Industrial and Operations Engineering from the University of Michigan<br/>
 </p>
 
 <hr/>
 
-<h3 align="center">🌍 About me</h3>
-<p align="center">
-Born and raised in Honduras to Korean parents and currently based in Chicago.<br/>
-I speak <strong>Korean, Spanish, and English</strong>.<br/>
-I earned my undergraduate degree at the <strong>University of Michigan</strong> in Industrial and Operations Engineering.
+
+<h3>📊 Interests</h3>
+<p>
+Data science, data and business analytics, and product or project oriented roles.
+I enjoy bridging technical analysis with business decision making.
+</p>
+<h3>🌍 About me</h3>
+
+<hr/>
+<p>
+Born and raised in Honduras to Korean parents and currently based in Chicago.
+I speak Korean, Spanish, and English.
+Outside of work, I enjoy spending time with friends, staying active outdoors, and playing golf and soccer. I am also a longtime Manchester United supporter.
+</p>
 </p>
 
 <hr/>
 
-<h3 align="center">📊 Interests</h3>
-<p align="center">
-Data analytics, business analytics, and product or project focused roles.<br/>
-I enjoy using data to support decisions, improve processes, and connect technical work with business needs.
-</p>
-
-<hr/>
-
-<h3 align="center">⚽ Outside of work</h3>
-<p align="center">
-I enjoy spending time with friends, staying active outdoors, and playing golf and soccer.<br/>
-Longtime Manchester United supporter.
-</p>
-
-<hr/>
-
-<h3 align="center">🔗 Connect with me</h3>
-<p align="center">
+<h3>🔗 Connect with me</h3>
+<p>
   <a href="https://linkedin.com/in/junnychoi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="34" width="44" />
@@ -51,8 +41,8 @@ Longtime Manchester United supporter.
 
 <hr/>
 
-<h3 align="center">🛠 Languages and tools</h3>
-<p align="center">
+<h3>🛠 Languages and tools</h3>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="42" height="42"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" width="42" height="42"/>
@@ -65,8 +55,8 @@ Longtime Manchester United supporter.
 
 <hr/>
 
-<h3 align="center">📈 GitHub activity</h3>
-<p align="center">
+<h3>📈 GitHub activity</h3>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=junnychoi&show_icons=true&locale=en" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junnychoi&show_icons=true&locale=en&layout=compact" height="165"/>
 </p>
