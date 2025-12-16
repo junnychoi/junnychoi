@@ -11,7 +11,7 @@
 **Surviving Chicago: Data Engineering and Analytics Pipeline**  
 End-to-end data engineering and analytics project analyzing 195k+ Chicago crime records using Snowflake and MCP-powered AI analysis.  
 
-🔗 https://github.com/asingh49-cmd/Surviving-Chicago-Data-Engineering-and-Analytics-Pipeline
+🔗 https://github.com/junnychoi/Surviving-Chicago-Data-Engineering-and-Analytics-Pipeline
 
 <hr/>
 
