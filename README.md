@@ -3,25 +3,25 @@
 <p>
 🎓 Master’s student in Applied Data Science at the University of Chicago<br/>
 🏦 Analytics experience in financial services at Morningstar<br/>
-🏫 Bachelor’s in Industrial and Operations Engineering from the University of Michigan<br/>
+🏫 Bachelor’s in Industrial and Operations Engineering from the University of Michigan
 </p>
 
 <hr/>
-
 
 <h3>📊 Interests</h3>
 <p>
 Data science, data and business analytics, and product or project oriented roles.
 I enjoy bridging technical analysis with business decision making.
 </p>
-<h3>🌍 About me</h3>
 
 <hr/>
+
+<h3>🌍 About me</h3>
 <p>
 Born and raised in Honduras to Korean parents and currently based in Chicago.
 I speak Korean, Spanish, and English.
-Outside of work, I enjoy spending time with friends, staying active outdoors, and playing golf and soccer. I am also a longtime Manchester United supporter.
-</p>
+Outside of work, I enjoy spending time with friends, staying active outdoors, and playing golf and soccer.
+I am also a longtime Manchester United supporter.
 </p>
 
 <hr/>
