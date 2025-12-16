@@ -6,7 +6,7 @@
 🏫 Bachelor’s in Industrial and Operations Engineering from the University of Michigan
 </p>
 
-## Featured Project
+## 🚀 Featured Project
 
 **Surviving Chicago: Data Engineering and Analytics Pipeline**  
 End-to-end data engineering and analytics project analyzing 195k+ Chicago crime records using Snowflake and MCP-powered AI analysis.  
