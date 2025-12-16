@@ -6,6 +6,13 @@
 🏫 Bachelor’s in Industrial and Operations Engineering from the University of Michigan
 </p>
 
+## Featured Project
+
+**Surviving Chicago: Data Engineering and Analytics Pipeline**  
+End-to-end data engineering and analytics project analyzing 195k+ Chicago crime records using Snowflake and MCP-powered AI analysis.  
+
+🔗 https://github.com/asingh49-cmd/Surviving-Chicago-Data-Engineering-and-Analytics-Pipeline
+
 <hr/>
 
 <h3>📊 Interests</h3>
@@ -54,6 +61,7 @@ I am also a longtime Manchester United supporter.
 </p>
 
 <hr/>
+
 
 <h3>📈 GitHub activity</h3>
 <p>
